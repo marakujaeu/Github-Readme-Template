@@ -51,7 +51,7 @@ Show how to use the project or library.
 
 + [jxson](https://gist.github.com/jxson) - [README.md](https://gist.github.com/jxson/1784669)
 + [gistfrojd](https://gist.github.com/gistfrojd) - [README.md](https://gist.github.com/gistfrojd/5fcd3b70949ac6376f66)
-+ [PurpleBooth] - (https://github.com/PurpleBooth)
++ [PurpleBooth](https://github.com/PurpleBooth) - [README.md](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 
 Depending on the size of the project, if it is small and simple enough the reference docs can be added to the README. For medium size to larger projects it is important to at least provide a link to where the API reference docs live.
 
