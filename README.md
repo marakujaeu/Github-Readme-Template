@@ -10,6 +10,17 @@ You can also add some badges/states next to Project Name, e.g,
 + [Shields.io](http://shields.io/)
 + Others
 
+###Checklist
+
+Do you have a README(.md) that explains the following things?
+
+- [ ] What the software is and does - Project Name and Features or Examples
+- [ ] How to use the software - Requirements, Installation or Getting Started and Usage
+- [ ] How legally the software can be used - License
+
+You can remove this section after finishing.
+
+
 ## Features or Example
 
 Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
