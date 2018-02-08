@@ -10,7 +10,7 @@ You can also add some badges/states next to Project Name, e.g,
 + [Shields.io](http://shields.io/)
 + Others
 
-###Checklist
+### Checklist
 
 Do you have a README(.md) that explains the following things?
 
