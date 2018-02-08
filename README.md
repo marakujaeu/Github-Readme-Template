@@ -1,87 +1,63 @@
-# Project Title
+# Project Name
 
-One Paragraph of project description goes here
+Short introduction or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
 
-## Getting Started
+You can also add some badges/states next to Project Name, e.g,
++ [Travis CI](https://travis-ci.org/)
++ [AppVeyor](http://www.appveyor.com/)
++ [Coveralls](https://coveralls.io/)
++ [Gitter](https://gitter.im/)
++ [Shields.io](http://shields.io/)
++ Others
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+## Features or Example
 
-### Prerequisites
+Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
 
-What things you need to install the software and how to install them
+## Motivation
+
+A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
+
+## Requirements
+
+This section is optional if there isn't any special dependencies. Else a bulletlist will suffice, e.g.,
+
+What things you need to install the software and how to install them:
+
++ [Node.js](https://nodejs.org/)
++ [React](https://facebook.github.io/react/)
++ Others
 
 ```
 Give examples
 ```
 
-### Installing
+## Installation or Getting Started
 
-A step by step series of examples that tell you have to get a development env running
+Provide code examples and explanations of how to get the project, e.g.,
 
-Say what the step will be
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-```
-Give the example
-```
+	git clone https://github.com/Jasonnor/README.md.git
+    cd README.md
+    npm install README.md
+    npm start
 
-And repeat
+## Usage
 
-```
-until finished
-```
+Show how to use the project or library.
+    
+## Reference
 
-End with an example of getting some data out of the system or using it for a little demo
++ [jxson](https://gist.github.com/jxson) - [README.md](https://gist.github.com/jxson/1784669)
++ [gistfrojd](https://gist.github.com/gistfrojd) - [README.md](https://gist.github.com/gistfrojd/5fcd3b70949ac6376f66)
 
-## Running the tests
+Depending on the size of the project, if it is small and simple enough the reference docs can be added to the README. For medium size to larger projects it is important to at least provide a link to where the API reference docs live.
 
-Explain how to run the automated tests for this system
+## Contributors
 
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+Let people know how they can dive into the project, include important links to things like issue trackers, irc, twitter accounts if applicable.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+A short snippet describing the license ([MIT](http://opensource.org/licenses/mit-license.php), [Apache](http://opensource.org/licenses/Apache-2.0), etc.)
